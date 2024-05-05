@@ -1,4 +1,4 @@
-# hello-world
+# vuejs-vuex-structure-code
 
 ## Project setup
 ```
